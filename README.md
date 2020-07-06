@@ -21,7 +21,7 @@ Once the database has been created, we have to insert all the necessary data for
 Once the insertion of data in the table is finished, we can read the table with the read function defined in the code.To read the data, sql query has been used which will display all the fields in the table.
 
 #### Update
-Update of the table can be performed if there is wrong insertion of data or the data has to be altered. Update is performed with the ID because it is used as a primary key in the table.
+Update of the table can be performed if there is wrong insertion of data or the data has to be altered. Update is performed for certain cloumn with the ID because it is used as a primary key in the table.
 
 #### Delete
 Table records can be deleted with the id in the table since it is used as primary key.
